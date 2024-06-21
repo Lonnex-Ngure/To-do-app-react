@@ -1,4 +1,3 @@
-// src/components/TodoList.tsx
 import React from 'react';
 import { Todo } from '../reducers/todoReducer';
 import TodoItem from './TodoItem';

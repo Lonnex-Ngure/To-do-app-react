@@ -1,4 +1,3 @@
-// src/App.tsx
 import React, { useReducer, useEffect, useState } from 'react';
 import { todoReducer, Todo } from './reducers/todoReducer';
 import TodoList from './components/TodoList';
